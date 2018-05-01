@@ -6,10 +6,9 @@ Group name: SSSL
 Group Member: Jiaxin Song, Chaohan Shang, Yun Sun, Weihao Li.
 
 
-package: bqplot, plotly, ipywidgets, seaborn, pandas
+package: bqplot, plotly, ipywidgets, seaborn, pandas, matplotlib.pyplot
 
 
-matplotlib.pyplot
 
 Our dataset is about the daliy crime which happens in the university area.
 
